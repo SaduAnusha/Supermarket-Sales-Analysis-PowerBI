@@ -41,9 +41,12 @@ The dashboard helps in understanding business performance through interactive vi
 - Improves delivery efficiency insights
 - Supports data-driven decision making
 
-📷 Dashboard Preview
 
-* Screenshots of the dashboard are available in this repository under the **Screenshots** folder.
+📌 Files Included:
+- 📂 Dataset (CSV) – Raw sales data used for analysis  
+- 📊 Power BI Dashboard (PBIX) – Interactive dashboard file  
+- 📄 Report (PDF) – Summary of insights and findings  
+- 🖼️ Dashboard Screenshots – Visual preview of the dashboard
 
 💡 Key Insights 
 
@@ -52,7 +55,16 @@ The dashboard helps in understanding business performance through interactive vi
 * Evaluated delivery performance trends
 * Found customer purchasing patterns
 
+
+🎯 Project Outcome
+
+This dashboard helps in analyzing sales trends, customer behavior, and product performance to support data-driven decision making.
+
 👩‍💻 Created By
 
  Anusha Sadu
 
+📫 Connect With Me
+
+🔗 LinkedIn: [Anusha Sadu](https://www.linkedin.com/in/anusha-sadu-1179863ba)  
+📧 Email: saduanusha2004@gmail.com

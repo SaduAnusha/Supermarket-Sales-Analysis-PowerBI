@@ -1,2 +1,58 @@
-# Supermarket-Sales-Analysis-PowerBI
-Interactive Power B
+📊 Supermarket Sales Analysis Dashboard
+
+📌 Project Overview
+
+This Power BI project analyzes supermarket sales data to uncover insights related to sales performance, product trends, customer behavior, and delivery operations.
+The dashboard helps in understanding business performance through interactive visualizations and KPIs.
+
+
+
+ 🛠 Tools & Technologies Used
+
+* Power BI Desktop
+* Microsoft Excel
+* Power Query (Data Cleaning & Transformation)
+* DAX (Data Analysis Expressions)
+* Data Visualization Techniques
+
+
+
+ 📊 Dashboard Pages
+
+1. Executive Overview – High-level KPIs and summary
+2. Sales & Product Analysis – Product-wise and category-wise performance
+3. Delivery & Shipping Analysis – Delivery trends and efficiency
+4. Business Insights & Conclusion – Key findings and recommendations
+
+
+
+📈 Key Features
+
+* Interactive KPI Cards (Sales, Profit, Quantity, etc.)
+* Dynamic Slicers (Region, Category, Time Period)
+* Sales Trend Analysis (Monthly/Yearly trends)
+* Product Performance Analysis
+* Customer Behavior Insights
+* Delivery & Shipping Performance Tracking
+  
+
+📊 Business Impact
+- Helps identify best-selling products
+- Improves delivery efficiency insights
+- Supports data-driven decision making
+
+📷 Dashboard Preview
+
+* Screenshots of the dashboard are available in this repository under the **Screenshots** folder.
+
+💡 Key Insights 
+
+* Identified top-performing product categories
+* Analyzed peak sales periods
+* Evaluated delivery performance trends
+* Found customer purchasing patterns
+
+👩‍💻 Created By
+
+ Anusha Sadu
+

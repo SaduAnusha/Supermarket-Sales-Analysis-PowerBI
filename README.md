@@ -22,7 +22,7 @@ The dashboard helps in understanding business performance through interactive vi
 1. Executive Overview – High-level KPIs and summary
 2. Sales & Product Analysis – Product-wise and category-wise performance
 3. Delivery & Shipping Analysis – Delivery trends and efficiency
-4. Business Insights & Conclusion – Key findings and recommendations
+4. Business Insights & Conclusion – Key findings and conclusions
 
 
 
